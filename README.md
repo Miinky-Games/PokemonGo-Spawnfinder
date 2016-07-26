@@ -32,6 +32,10 @@ Green markers signalize that there is enough data and the specific pokemon spawn
 
 Red markers signalize that there is enough data and the specific pokemon spawns **not** quite often at that spawnpoint.
 
+## Screenshot
+
+![](https://i.imgur.com/Gpowsdp.jpg)
+
 ## Contributions
 
 Please submit all pull requests to the [develop branch](https://github.com/polygamma/PokemonGo-Spawnfinder/tree/develop).
