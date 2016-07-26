@@ -34,4 +34,4 @@ Red markers signalize that there is enough data and the specific pokemon spawns 
 
 ## Contributions
 
-Please submit all pull requests to the [develop branch](https://github.com/polygamma/PokemonGo-Spawnfinder/archive/develop.zip).
+Please submit all pull requests to the [develop branch](https://github.com/polygamma/PokemonGo-Spawnfinder/tree/develop).
